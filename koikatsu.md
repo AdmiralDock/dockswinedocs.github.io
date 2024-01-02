@@ -10,7 +10,7 @@ required pacakges: `wine winetricks`
 - Create a new WINE prefix (optional)
 - install dxvk and fonts with `winetricks corefonts dxvk`
 - Install the game
-Note: You may need to run the installer with a Japanese locale. Please refer you your distros documentation on how to set up locales.
+Note: You may need to run the installer with a Japanese locale. Please refer to your distros documentation on how to set up locales.
 to do this set the LANG enviroment variable as `LANG=ja_JP.UTF-8` and then run the Setup file.
 - Install any updates you have for the game or install the HF-Patch (for modding and easy updating)  
 
