@@ -7,3 +7,4 @@ Feel free to look around. I hope the information stored within these pages is us
 ## List of games I have instructions for
 - [Fallout 4 (GOG Version)](fallout4.md)
 - [Fallout: New Vegas (GOG Version)](falloutnv.md)
+- [Koikatsu and Koikatsu Sunshine](koikatsu.md)
