@@ -25,4 +25,4 @@ You can now play the game! :3
 ## Troubleshooting
 If you're having audio problems such as: Character speech not playing, music not playing, menu sfx not playing:  
 you are likely missing gstreamer plugins for windows media audio, installing those should fix the issue  
-alternatively you can install the missing codecs within WINE itself, either through winetricks or by installing for example the K-Like Codec Pack - Basic (check the windows media audio and windows media video checkboxes when asked about what codecs to install)  
+alternatively you can install the missing codecs within WINE itself, either through winetricks or by installing for example the K-Lite Codec Pack - Basic (check the windows media audio and windows media video checkboxes when asked about what codecs to install)  
