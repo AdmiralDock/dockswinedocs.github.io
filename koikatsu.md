@@ -8,7 +8,7 @@ WINE 8.21
 ## Installation
 required pacakges: `wine winetricks`  
 - Create a new WINE prefix (optional)
-- install dxvk and fonts with `winetricks corefonts dxvk`
+- install dxvk and fonts with `winetricks allfonts dxvk ole32`
 - Install the game
 Note: You may need to run the installer with a Japanese locale. Please refer to your distros documentation on how to set up locales.
 to do this set the LANG enviroment variable as `LANG=ja_JP.UTF-8` and then run the Setup file.
